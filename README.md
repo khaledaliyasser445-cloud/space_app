@@ -58,3 +58,13 @@ assets/
 ```
 
 Image and model assets are declared in `pubspec.yaml`. The app's main navigation routes are `/landing`, `/home`, and `/details`.
+
+
+##🎥 Video Record
+
+
+
+https://github.com/user-attachments/assets/c42bc151-6291-4a29-909a-6031b5dfbf89
+
+
+
